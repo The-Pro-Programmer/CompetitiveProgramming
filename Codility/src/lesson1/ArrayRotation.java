@@ -1,4 +1,4 @@
-package lessons;
+package lesson1;
 
 
 //Rotate an array to the right by a given number of steps.
